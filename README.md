@@ -1,2 +1,2 @@
 # homebrew-sketches-cmd
-Command-line application for sketches-core
+Brew enabled, command-line application for sketches-core
