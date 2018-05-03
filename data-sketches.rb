@@ -1,5 +1,5 @@
-class JettyRunner < Formula
-  desc "Use Jetty without an installed distribution"
+class DataSketches < Formula
+  desc "Command line interface for DataSketches"
   homepage "https://datasketches.github.io"
   url "https://search.maven.org/remotecontent?filepath=com/yahoo/datasketches/sketches-cmd/0.1.0/sketches-cmd-0.0.1-with-shaded-core.jar"
   version "0.1.0"
